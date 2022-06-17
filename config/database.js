@@ -24,6 +24,6 @@
         user: env("DATABASE_USER", "fifrzgbauvcouo"),
         password: env("DATABASE_PASSWORD", "a509f3cfd89473794ade6865133d575356c6f3a065c418d75fd8c6f433524f9b"),
         schema: env("DATABASE_SCHEMA", "public"),
-        //asd
+        //asd asdasd
       },
     }});
