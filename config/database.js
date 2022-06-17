@@ -9,5 +9,6 @@ module.exports = ({ env }) => ({
       user: env("DATABASE_USER", "postgres"),
       password: env("DATABASE_PASSWORD", "SHIVAM"),
       schema: env("DATABASE_SCHEMA", "public"),
+      //asd
     },
   }});
